@@ -4,6 +4,8 @@
 
 This Django-based application is designed to help users manage their todo lists with ease. Featuring a clean and straightforward interface, users can add, edit, view, and delete tasks. Built with security in mind, the application includes user authentication to ensure that todo lists are private and accessible only to the user.
 
+![Todo List Application](Django To Do List Application.png)
+
 ### Features
 
 - **User Registration and Login**: Secure authentication system to access and manage personal todo lists.
